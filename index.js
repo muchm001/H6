@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const mysql = /dbcon.js
+const mysql = require('./dbcon')
 
 
 app.use(express.static('public'))
