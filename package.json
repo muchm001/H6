@@ -1,0 +1,10 @@
+{
+  "name": "H6",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "forever": "^3.0.4"
+
+  }
+}
